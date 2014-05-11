@@ -1,0 +1,65 @@
+body { font-family: 'lato-light'; font-size: 15.1px; }
+
+.container {
+  width: 1074px;
+}
+.header {
+
+}
+
+.header .to {
+  height: 5px;
+  background: -webkit-linear-gradient(#e982ed 4px, #efb1f1);
+  background: -moz-linear-gradient(#e982ed 4px, #efb1f1);
+  background: -o-linear-gradient(#e982ed 4px, #efb1f1);
+  background: linear-gradient(#e982ed 4px, #efb1f1);
+}
+
+.logo-container {
+  width: 222px;
+  height: 73px;
+}
+
+.logo-container .logo-image {
+  background: transparent url(../images/logo.png) no-repeat;
+  width: 222px;
+  height: 73px;
+  background-size: 222px 73px;
+}
+
+.logo-container .logo-text {
+  display: none;
+}
+
+.language-toggle {
+  float: right
+}
+
+header nav ul {
+  border:1px solid blue;
+  background-color: #66c876;
+  width: 600px;
+  border-radius: 50px;
+  height: 73px;
+  margin: 0px
+}
+
+
+header nav ul  li {
+  border:1px solid blue;
+  display: inline-block;
+  float: left;
+  list-style-type: none;
+  margin: 0 0 0 45px;
+}
+
+header nav  ul li a {
+  float: left;
+  color: #fefefe;
+  font-family: 'lato';
+  /*height: 25px;*/
+  text-transform: uppercase;
+  text-decoration: none;
+  /*font-size: 15px;*/
+  /*line-height: 60px;*/
+}

@@ -1,0 +1,872 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"get",
+				"getHTML"
+			],
+			[
+				"repoList",
+				"RepoListView"
+			],
+			[
+				"RepoLi",
+				"RepoListView"
+			],
+			[
+				"add",
+				"addLabel"
+			],
+			[
+				"User",
+				"UserView"
+			],
+			[
+				"contr",
+				"contributors"
+			],
+			[
+				"gith",
+				"GithubSync"
+			],
+			[
+				"Co",
+				"Contributor"
+			],
+			[
+				"Contr",
+				"Contributor"
+			],
+			[
+				"Repo",
+				"RepoList"
+			],
+			[
+				"model",
+				"Model"
+			],
+			[
+				"avatar",
+				"avatar_url"
+			],
+			[
+				"build",
+				"buildURL"
+			],
+			[
+				"git",
+				"githubURL"
+			],
+			[
+				"js",
+				"jsonp"
+			],
+			[
+				"bui",
+				"buildURL"
+			],
+			[
+				"Gith",
+				"GithubSync"
+			],
+			[
+				"Home",
+				"HomePageView"
+			],
+			[
+				"Cont",
+				"ContributorList"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"L",
+				"Lang"
+			],
+			[
+				"id",
+				"idAttribute"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"Lo",
+				"LocalStorageSync"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"edit",
+				"editing"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"ed",
+				"editing"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"todo-ite",
+				"todo-item-template"
+			],
+			[
+				"toggle",
+				"toggleDone"
+			],
+			[
+				"Todo",
+				"TodoView"
+			],
+			[
+				"new",
+				"new-todo"
+			],
+			[
+				"value",
+				"valueFn"
+			],
+			[
+				"input",
+				"inputNode"
+			],
+			[
+				"set",
+				"setHTML"
+			],
+			[
+				"todo",
+				"todo-list"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"T",
+				"TodoView"
+			],
+			[
+				"cu",
+				"currentTarget"
+			],
+			[
+				"inpu",
+				"inputNode"
+			],
+			[
+				"create",
+				"createTodo"
+			],
+			[
+				"remov",
+				"remove"
+			],
+			[
+				"tod",
+				"todo-list"
+			],
+			[
+				"num",
+				"numDone"
+			],
+			[
+				"done",
+				"doneLabel"
+			],
+			[
+				"rem",
+				"remaining"
+			],
+			[
+				"todol",
+				"todoList"
+			],
+			[
+				"To",
+				"TodoList"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"slice",
+				"slices"
+			],
+			[
+				"pie",
+				"PieModel"
+			],
+			[
+				"ea",
+				"eatSlice"
+			],
+			[
+				"pec",
+				"pecanPie"
+			],
+			[
+				"all",
+				"allGone"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1750,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 121220,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"stencil: width",
+				"Stencil: width:100%"
+			],
+			[
+				"stencil: width a",
+				"Stencil: width:auto"
+			],
+			[
+				"Stencil: background-color:transparent",
+				"Stencil: background-color:transparent"
+			],
+			[
+				"stencil ",
+				"Stencil: line-height:1.9em;height:1.9em"
+			],
+			[
+				"stencil",
+				"Stencil: clear:both"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/abuzain/TD/applets/td-applet-navrail/stores/userlist-store.js",
+		"/Users/abuzain/Projects/HR/frontier/modules/myy/myy_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/modules/myatt/myatt_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/modules/theme/partner_att.css",
+		"/Users/abuzain/Projects/HR/frontier/modules/stream/streamPortalComponent.php",
+		"/Users/abuzain/Projects/HR/frontier/modules/navrail/navrailPortalComponent.php",
+		"/Users/abuzain/Projects/HR/frontier/modules/tdrmp/tdrmpPortalComponent.php",
+		"/Users/abuzain/Projects/HR/frontier/platform/src/php/platform_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/modules/myy/myyLoaderConfig.php",
+		"/Users/abuzain/Projects/HR/frontier/sftp-config.json",
+		"/Users/abuzain/Projects/HR/frontier/modules/myyARCADEplugins/myBasePortalComponent.php",
+		"/Users/abuzain/TD/applets/td-applet-navrail/controllers/index.js",
+		"/Users/abuzain/Projects/HR/frontier/modules/navrail/navrail_conf.yml",
+		"/Users/abuzain/TD/applets/td-applet-navrail/templates/main.dust",
+		"/Users/abuzain/TD/applets/td-applet-navrail/sftp-config.json",
+		"/Users/abuzain/Projects/HR/frontier/platform/src/php/udb_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/modules/fpfooter/fpfooter_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/modules/pagenav/pagenav_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/modules/myyfooter/myyfooterPortalComponent.php",
+		"/Users/abuzain/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/abuzain/Projects/HR/frontier/myy_maple/src/php/repo/templates/frontier.php",
+		"/Users/abuzain/Projects/HR/frontier/platform/src/php/module_catalog_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/modules/myy/frontier.css",
+		"/Users/abuzain/Projects/HR/frontier/modules/myyheader/myyheader_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/platform/src/php/udb_dim.yml",
+		"/Users/abuzain/Projects/HR/frontier/UpdateAllMyRulesetFiles",
+		"/Users/abuzain/Projects/HR/frontier/platform/src/php/myCoreInit.php",
+		"/Users/abuzain/Projects/HR/frontier/modules/myy/myy.js",
+		"/Users/abuzain/Projects/HR/frontier/modules/today/today_conf.yml",
+		"/Users/abuzain/Projects/HR/frontier/myy_maple/src/php/repo/templates/partners.php",
+		"/Users/abuzain/Projects/HR/frontier/frontier-hr.sublime-project",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/modules/navrail/src/php/generic_intl/navrail_conf.yml",
+		"/Users/abuzain/TD/applets/td-applet-share/lib/sendmail.js",
+		"/Users/abuzain/TD/applets/td-applet-share/package.json",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/platform/results/hr_config/boot_conf.yml",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/modules/myy/src/php/generic_intl/myyLoaderConfig.php",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/modules/myy/src/php/generic_intl/myy_conf.yml",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/td-stores-credstore-mock.js",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/platform/src/php/boot_dim.yml",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/nodemailer_mock.js",
+		"/Users/abuzain/TD/applets/td-applet-share/stores/cascade-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/context-mocks.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/stores/cascade-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/jslint-",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/lib/sendmail.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/stores/mail-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/node_modules/nodemailer-noiconv/lib/mail.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/lib-sendmail.js",
+		"/Users/abuzain/TD/applets/td-applet-share/stores/mail.js",
+		"/Users/abuzain/TD/applets/td-applet-share/lib/FbPost.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/credsotre-mock.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/cascade-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/yck_mocks.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/mjata-rest.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/yck_mock.js",
+		"/Users/abuzain/TD/applets/td-applet-share/models/mail.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/snapshot-mock.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/stores/fb-post-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/lib/snapshot-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/lib/fb-post-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/views/mainview.js",
+		"/Users/abuzain/TD/applets/td-applet-share/stores/share.js",
+		"/Users/abuzain/TD/applets/td-applet-share/stores/snapshot-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/stores/tumblr-post-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/stores/twitter-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/stores/twitter-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/views/facebookview.js",
+		"/Users/abuzain/TD/applets/td-applet-share/views/tumblrview.js",
+		"/Users/abuzain/TD/applets/td-applet-share/views/twitterview.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/mocks/HTTP-post-mock.js",
+		"/Users/abuzain/TD/applets/td-applet-share/controllers/index.js",
+		"/Users/abuzain/TD/applets/td-applet-share/README.md",
+		"/Users/abuzain/TD/applets/td-applet-share/models/facebookbtn.js",
+		"/Users/abuzain/TD/applets/td-applet-share/models/sharefacebook.js",
+		"/Users/abuzain/TD/applets/td-applet-share/models/sharetwitter.js",
+		"/Users/abuzain/TD/applets/td-applet-share/models/tumblrbtn.js",
+		"/Users/abuzain/TD/applets/td-applet-share/stores/fb-post-store.js",
+		"/Users/abuzain/TD/applets/td-applet-share/views/mailview.js",
+		"/Users/abuzain/TD/applets/td-applet-share/templates/mail.dust",
+		"/Users/abuzain/TD/applets/td-applet-share/stores/config.json",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/controllers/index.js",
+		"/Users/abuzain/TD/applets/td-applet-share/tests/unit/stores/share.js",
+		"/Users/abuzain/TD/applets/td-applet-addressbook/stores/addressbook-store.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/views/mailview.js",
+		"/Users/abuzain/TD/applets/td-applet-share/templates/main.dust",
+		"/Users/abuzain/TD/applets/td-applet-addressbook/templates/mail.dust",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/templates/mail.dust",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/sftp-config.json",
+		"/Users/abuzain/TD/applets/td-applet-share/sftp-config.json",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/models/sendemail.js",
+		"/Users/abuzain/Projects/content_social/maple/modules/media-content-share-buttons.mod.xml",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/templates/main.dust",
+		"/Users/abuzain/Downloads/emailToFriendTemplate.html",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/stores/sendemail.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/controllers/index.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/models/mail.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/package.json",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/stores/cascade-store.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/views/mainview.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/tests/unit/controllers/index.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/lib/sendmail.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/node_modules/applet-server/node_modules/ape-applet/node_modules/ape-af/node_modules/mjata/src/model/model.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/node_modules/applet-server/node_modules/ape-applet/node_modules/ape-af/src/utils/af-utils.js",
+		"/Users/abuzain/TD/applets/td-applet-addressbook/controllers/index.js",
+		"/Users/abuzain/Projects/mtf/maple/renderers/MediaSocialButtonsMailPanel.php",
+		"/Users/abuzain/Projects/mtf/maple/renderers/MediaSocialButtonsMailMessage.php",
+		"/Users/abuzain/TD/applets/td-applet-addressbook/tests/unit/stores/addressbook-store.js",
+		"/Users/abuzain/TD/applets/td-applet-addressbook/models/contact-model.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/node_modules/applet-server/node_modules/ape-applet/src/applet/af-applet-model.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/configs/config.json",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/node_modules/grunt-td/node_modules/assetifier/node_modules/ape-applet/src/applet/af-applet-model.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/stores/config.json",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/node_modules/applet-server/node_modules/mobstor/test/httpmock.js",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/node_modules/td-snapshot/lib/snapshot.js",
+		"/Users/abuzain/TD/applets/td-snapshot/lib/snapshot.js",
+		"/Users/abuzain/TD/applets/td-snapshot/package.json",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/templates/header.dust",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/node_modules/td-snapshot/package.json",
+		"/Users/abuzain/TD/applets/td-applet-sendemail/templates/footer.dust",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/myy_maple/src/php/repo/templates/fp.php",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/myy_maple/src/php/repo/templates/frontier.php",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/platform/src/php/platform_conf.yml",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/platform/src/php/udb_conf.yml",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/modules/myy/src/php/generic_intl/frontier.css",
+		"/Users/abuzain/TD/applets/td-server-dev/node_modules/td-applet-stream/controllers/index.js",
+		"/Users/abuzain/Projects/my_yahoo/sftp-config.json",
+		"/Users/abuzain/Projects/my_yahoo/fp-www/my_sources/modules/myyheader/src/php/generic_intl/myyheader_dim.yml",
+		"/Users/abuzain/TD/applets/td-applet-mail/controllers/index.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/abuzain/Projects/HR/frontier/modules",
+			"<project>",
+			"/Users/abuzain/TD/applets/td-applet-addressbook",
+			"/Users/abuzain/Projects/content_social",
+			"/Users/abuzain/TD/applets/td-applet-addressbook",
+			"/Users/abuzain/Projects/mtf",
+			"/Users/abuzain/TD/applets/td-applet-addressbook",
+			"<project>,/Users/abuzain/TD/applets/td-applet-addressbook",
+			"<project>",
+			"/Users/abuzain/TD/applets/td-applet-mail",
+			"<project>",
+			"/Users/abuzain/TD/applets/td-applet-sendemail",
+			"<project>",
+			"/Users/abuzain/TD/applets/td-server-ytb/node_modules/td-applet-mail"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"yellow",
+			"ret",
+			"$i",
+			"partner",
+			"$YrbBundle->get_string",
+			".att",
+			"prepareSettings",
+			"setEditEnabled",
+			"renderLinks",
+			".ATT.",
+			"footer",
+			"Copyright",
+			"Acceptable Use Policy",
+			"About our Ads",
+			"Privacy",
+			"Feedback",
+			"Copyright",
+			"policy",
+			"Filmstrip .Selected p",
+			"att",
+			"ArcadeFactory",
+			"AccessorManager",
+			"early",
+			"AccessorManager",
+			"prepareEarlyCall",
+			"host",
+			"->reqArgs",
+			"reqArgs",
+			"getCommonRequestArgs",
+			"getRequestArgs",
+			"navrail",
+			"getAppSettings",
+			"getCompleteList",
+			"setstore",
+			"readUDB",
+			"getUserSignInList",
+			"td.port",
+			"bookmarks",
+			"bookmar",
+			"td.host",
+			"front",
+			"pagetype",
+			"td.port",
+			"abuzain",
+			"td.host",
+			"fp",
+			"\"/(corp|vmnet|corp\\.sk1|corp\\.sp2|corp\\.gq1)\\.yahoo\\.com/",
+			"td.host",
+			"stream",
+			"tdserver-my.rc.staging.manhattan.gq1.yahoo.com",
+			"td.host",
+			"td",
+			"24803755",
+			"p_30345890",
+			"footer",
+			"frontier",
+			"30345890",
+			"footer",
+			"page.c1.list_",
+			"30345890",
+			"footer",
+			"navrail",
+			"40769040",
+			"50000014",
+			"40769040",
+			"links",
+			"about",
+			"displayAsHtml",
+			"30345890",
+			"footer",
+			"fp",
+			"1468442",
+			"today",
+			"#",
+			"background",
+			"fp",
+			"partners",
+			"navrail",
+			"50000014",
+			"38110013",
+			"p_63808",
+			"26391799",
+			"background",
+			"color",
+			"#",
+			"border",
+			"header",
+			"ucs",
+			"1468442",
+			"today",
+			"fp",
+			"type_fp",
+			"type_myy_css",
+			"type_fp_css",
+			"body",
+			"partners",
+			"fp",
+			"getSite",
+			"page.maple.template",
+			"frontier",
+			"fronti",
+			"settings: [site: \"fp\", pagetype: \"/.*/\"]",
+			"settings",
+			"pagetype",
+			"vmnet",
+			"front",
+			"isWWW",
+			"mock_yck",
+			"callback",
+			"EmailMessage",
+			"EmailMessage.send",
+			"EmailMessage",
+			".js",
+			".log",
+			"4000",
+			"mail_store",
+			"response",
+			"lm_response",
+			"getFromAddress",
+			"getSenderAddress",
+			"ks/mjata-rest.js",
+			"}",
+			",\"",
+			"lm_response",
+			"config",
+			"count",
+			"resource",
+			"function("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",' \\+\\n'",
+			",' \\+\\n",
+			"function (",
+			"/\\t/",
+			"\\t",
+			"function (",
+			"data.mail",
+			"mailModel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								631
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/bootstrap.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 121220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"project": "marka.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"udb_",
+				"platform/src/php/udb_conf.yml"
+			],
+			[
+				"myy_conf.yml",
+				"modules/myy/myy_conf.yml"
+			],
+			[
+				"myyloaderconfig",
+				"modules/myy/myyLoaderConfig.php"
+			],
+			[
+				"navrail_conf.yml",
+				"modules/navrail/navrail_conf.yml"
+			],
+			[
+				"mycoreinit.php",
+				"platform/src/php/myCoreInit.php"
+			],
+			[
+				"platform_conf.yml",
+				"platform/src/php/platform_conf.yml"
+			],
+			[
+				"module_catalog_conf.yml",
+				"platform/src/php/module_catalog_conf.yml"
+			],
+			[
+				"myyloaderconfig.php",
+				"modules/myy/myyLoaderConfig.php"
+			],
+			[
+				"navrail/navrail_conf.yml",
+				"modules/navrail/navrail_conf.yml"
+			],
+			[
+				"my_boot_conf",
+				"my_yahoo/fp-www/my_sources/platform/results/hr_config/boot_conf.yml"
+			],
+			[
+				"modules/myy/src/php/generic_intl/myy_conf.yml",
+				"my_yahoo/fp-www/my_sources/modules/myy/src/php/generic_intl/myy_conf.yml"
+			],
+			[
+				"modules/myy/src/php/generic_intl/myyloaderconfig.php",
+				"my_yahoo/fp-www/my_sources/modules/myy/src/php/generic_intl/myyLoaderConfig.php"
+			],
+			[
+				"",
+				"my_yahoo/fp-www/my_sources/platform/src/php/myCoreInit.php"
+			],
+			[
+				"modules/navrail/src/php/generic_intl/navrail_conf.yml",
+				"my_yahoo/fp-www/my_sources/modules/navrail/src/php/generic_intl/navrail_conf.yml"
+			],
+			[
+				"getdatamodel",
+				"td-applet-sendemail/node_modules/grunt-td/node_modules/assetifier/node_modules/ape-applet/src/applet/af-applet-model.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
