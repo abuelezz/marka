@@ -1,0 +1,64 @@
+.a, .icon-blogs, .icon-clock, .icon-cv, .icon-facebook, .icon-notice, .icon-pinterest, .icon-twitter, .star, .standing-girl{
+	background: url(sprites.png) no-repeat;
+}
+
+.a{
+	background-position: -465px -72px ;
+	width: 23px;
+	height: 25px;
+}
+
+.icon-blogs{
+	background-position: -447px -240px ;
+	width: 50px;
+	height: 51px;
+}
+
+.icon-clock{
+	background-position: -431px -110px ;
+	width: 66px;
+	height: 67px;
+}
+
+.icon-cv{
+	background-position: -479px -18px ;
+	width: 12px;
+	height: 18px;
+}
+
+.icon-facebook{
+	background-position: -447px -292px ;
+	width: 50px;
+	height: 51px;
+}
+
+.icon-notice{
+	background-position: -447px -179px ;
+	width: 50px;
+	height: 57px;
+}
+
+.icon-pinterest{
+	background-position: -447px -344px ;
+	width: 50px;
+	height: 51px;
+}
+
+.icon-twitter{
+	background-position: -447px -397px ;
+	width: 50px;
+	height: 51px;
+}
+
+.star{
+	background-position: -479px -45px ;
+	width: 11px;
+	height: 12px;
+}
+
+.standing-girl{
+	background-position: 0 -6px ;
+	width: 351px;
+	height: 564px;
+}
+
