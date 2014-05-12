@@ -1,3 +1,6 @@
+html {
+  font-family: 'lato-light';
+}
 body {
   font-family: 'lato-light';
   font-size: 15.1px;
@@ -20,8 +23,6 @@ a:focus {
 .container {
   width: 1074px;
   padding:0;
-  border-left: 1px dotted blue;
-  border-right: 1px dotted blue;
 }
 .header {
   height: 250px;
@@ -199,6 +200,10 @@ footer .footer-info {
   color: #adadad;
 }
 
+.footer-info .social-links .social-head {
+  margin-bottom: 20px;
+}
+
 .footer-info .social-links ul li {
   float: left;
 }
@@ -206,10 +211,19 @@ footer .footer-info {
   width: 50px;
   height: 51px;
   display: block;
+  margin-right: 15px;
 }
 .icon-facebook {
-  background:url("../images/social-fb.png") no-repeat;
+  background:url("../images/icon-facebook.png") no-repeat;
 }
 .icon-blogs {
-  background:url("../images/social-fb.png") no-repeat;
+  background:url("../images/icon-blogs.png") no-repeat;
+}
+
+.icon-pinterest {
+  background:url("../images/icon-pinterest.png") no-repeat;
+}
+
+.icon-twitter {
+  background:url("../images/icon-twitter.png") no-repeat;
 }
