@@ -165,7 +165,6 @@ ul.feature-list{
 footer {
   border-top: 1px solid #777777;
   background-color: #252525;
-  height: 200px;
 }
 
 footer .footer-info {
@@ -201,7 +200,7 @@ footer .footer-info {
 }
 
 .footer-info .social-links .social-head {
-  margin-bottom: 20px;
+  margin-bottom: 12px;
 }
 
 .footer-info .social-links ul li {
@@ -226,4 +225,8 @@ footer .footer-info {
 
 .icon-twitter {
   background:url("../images/icon-twitter.png") no-repeat;
+}
+
+.footer-logo img {
+  margin-top: -37px;
 }
